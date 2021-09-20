@@ -1,0 +1,10 @@
+Assuming account ID: xxxxxxxxxxx role to list buckets
+establishing connection to account with temporary credentials
+---------AccountId xxxxxxxxxxx Bucket's list-------
+aws-logs-xxxxxxxxxxx-ap-south-1
+config-bucket-xxxxxxxxxxx
+destination-crr-replication-testing
+lll-111
+object-locking-test-111
+s3-staticwebsite-hosting-test
+s3select-glacierselect-demo
